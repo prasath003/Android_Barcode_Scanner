@@ -2,6 +2,9 @@
 
 The project is loosely based on the ZXing Android Barcode Scanner application, but is not affiliated with the official ZXing project.
 
+
+its supports below formats:
+
 <table>
 <thead>
 <tr>
